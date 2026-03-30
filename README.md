@@ -1,35 +1,53 @@
-# MVAP
-Documentation of the theory of consciousness of MVAP
-# MVAP: Model of Volitional Adaptivity of the Psyche (Модель Волевой Адаптивности Психики)
+# MVAP: Model of Volitional Adaptivity of the Psyche
 
-This repository collects materials on the **MVAP theory** — a realization-independent, hierarchical, algorithmic model of the Individual Adaptive System (**Egostat**). It describes the circuitry of living entities from cellular homeostasis to consciousness, learning, intuition, and creativity using strict cause-and-effect principles.
+**Модель Волевой Адаптивности Психики**
 
-The model treats consciousness as an adaptive process for finding alternatives to habitual responses under novelty, not a metaphysical entity. It rejects quantum hypotheses, panpsychism, and the "hard problem of consciousness," providing a functional, implementation-independent architecture verifiable through software prototypes.
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Language: EN/RU](https://img.shields.io/badge/Language-EN%2FRU-blue.svg)](README.md)
 
-## Core Concepts
-- **Egostat** — ego-centric homeostatic system maintaining **Vitals** (life-critical parameters) within adaptive norms.
-- **Significance** — unified quantitative metric (−10 to +10) evaluating all images, actions, and states from the system's perspective.
-- **Dendrarch** — tree-like hierarchy of Images (perceptual primitives to complex abstractions) for efficient recognition and novelty detection.
-- **Novelty × Significance** — drives the **Orientant** and priority attention channel (**Aten**).
-- **Reflex hierarchy** — Genoreflexes (innate) → CloneReflexes → OptReflexes → NoReflexes (learned automatisms).
-- **Awareness cycles (Iterons)** — managed by the **Dispatcheron**, using global informedness (**Infocart/Infocontext**), infofunctions, and Historical Memory.
-- **Gestalts (Dominantas)** — persistent memory of unsolved high-significance problems, the engine of creativity and insight.
-- **Unconscious** — background awareness cycles enabling intuition.
+This repository contains documentation and materials for the **MVAP theory** — a realization-independent, hierarchical and algorithmic model of the **Individual Adaptive System (Egostat)**.
 
-Life is defined operationally as the functioning of a Homeostat/Egostat. The architecture enables construction of **strong AI** and artificial living systems without neuron emulation — feasible even on modest hardware.
+The theory presents a complete "circuitry" of living entities: from cellular homeostasis to consciousness, learning, intuition, creativity and strong AI — based on strict cause-and-effect principles, without reliance on neuron emulation or biological specifics.
 
-Key verification tool: the open **Beast** prototype (and simpler **Insect** model), which implements the full evolutionary hierarchy.
+## Core Ideas
+
+- **Egostat** — an ego-centric homeostatic system that maintains **Vitals** (life-critical parameters) within adaptive norms.
+- **Significance** (−10 … +10) — a universal quantitative metric for evaluating any image, action or state from the system’s own perspective.
+- **Dendrarch** — tree-like hierarchy of Images for efficient recognition and novelty detection.
+- **Orientant & Aten** — priority attention channel triggered by Novelty × Significance.
+- **Reflex hierarchy**: Genoreflexes → CloneReflexes → OptReflexes → NoReflexes (automatisms).
+- **Awareness (Iterons)** — managed by the Dispatcheron using global informedness (Infocart / Infocontext).
+- **Gestalts (Dominantas)** — memory structures of unsolved high-significance problems — the engine of creativity and insight.
+
+**Consciousness** is treated as a high-level adaptive mechanism for finding alternatives to habitual responses under conditions of novelty, not as a metaphysical phenomenon.
+
+Life is operationally defined as the functioning of the Homeostat / Egostat.
+
+## Repository Structure
+
+- **`/Beast`** — materials related to the Beast prototype (working model of the adaptive system)
+- **`/glossary`** — terminology and definitions of the MVAP system
+- **`/docs`** (recommended to create) — full versions of the books
+- `LICENSE`
+- `README.md`
+- `egostat_book.docx` & `egostat_book_eng.docx`
 
 ## Main Resources
-- **Main theory hub**: [https://p-mvap.ru/](https://p-mvap.ru/)
-- **Book "Circuitry of the Individual Adaptive System"** (English materials and related): [fornit.ru](https://fornit.ru/) (see links in the document and repository files)
-- **Foundations monograph**: [fornit.ru/68715](https://fornit.ru/68715)
-- **Beast project & prototype**: [fornit.ru/beast](https://fornit.ru/beast)
-- **Insect homeostat model**: [fornit.ru/insect_e](https://fornit.ru/insect_e)
-- **Laboratory site**: [fornit.ru/67990](https://fornit.ru/67990)
-- **Glossary and supplementary materials**: Links available throughout the repository and on fornit.ru
 
-The concept is developed by the **Laboratory of Adaptive Systems Circuitry** (Лаборатория схемотехники адаптивных систем) — [fornit.ru/67990](https://fornit.ru/67990).
+- **Laboratory of Adaptive Systems Circuitry** — [fornit.ru/67990](https://fornit.ru/67990)
+- **Main theory portal** — [p-mvap.ru](https://p-mvap.ru/)
+- **Foundations of the Fundamental Theory of Consciousness** (monograph) — [fornit.ru/68715](https://fornit.ru/68715)
+- **Beast project** — [fornit.ru/beast](https://fornit.ru/beast)
+- **Insect homeostat model** — [fornit.ru/insect_e](https://fornit.ru/insect_e)
+- **Full list of publications** — [fornit.ru/66452](https://fornit.ru/66452)
+
+## Getting Started
+
+1. Start with the **Glossary** (highly recommended — it builds the entire conceptual framework)
+2. Read the book *Circuitry of the Individual Adaptive System*
+3. Explore the Beast prototype and supplementary materials on fornit.ru
+
+The theory is developed by the **Laboratory of Adaptive Systems Circuitry** [](https://fornit.ru/67990).
 
 ---
 
@@ -37,30 +55,53 @@ The concept is developed by the **Laboratory of Adaptive Systems Circuitry** (Л
 
 # МВАП: Модель Волевой Адаптивности Психики
 
-Репозиторий собирает материалы по теории **МВАП** — реализационно-независимой, иерархической, алгоритмической модели системы индивидуальной адаптивности (**Эгостат**). Она описывает схемотехнику живых сущностей — от клеточного гомеостаза до сознания, обучения, интуиции и креативности — на основе строгих причинно-следственных принципов.
+**Model of Volitional Adaptivity of the Psyche**
 
-Модель рассматривает сознание как адаптивный процесс поиска альтернатив привычным реакциям в условиях новизны, а не как метафизическую сущность. Отвергаются квантовые гипотезы, панпсихизм и «трудная проблема сознания». Предлагается функциональная архитектура, проверяемая через программные прототипы.
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Language: EN/RU](https://img.shields.io/badge/Language-EN%2FRU-blue.svg)](README.md)
 
-## Основные понятия
+Репозиторий содержит документацию и материалы по теории **МВАП** — реализационно-независимой, иерархической и алгоритмической модели **системы индивидуальной адаптивности (Эгостат)**.
+
+Теория представляет полную «схемотехнику» живых сущностей — от клеточного гомеостаза до сознания, обучения, интуиции, креативности и сильного ИИ — на основе строгих причинно-следственных принципов, без эмуляции нейронов и биологических деталей.
+
+## Основные идеи
+
 - **Эгостат** — эгоцентрическая гомеостатическая система, поддерживающая **Виталы** (жизненно-критические параметры) в адаптивной норме.
-- **Значимость** — единая количественная шкала (−10…+10) оценки всех образов, действий и состояний с позиции системы.
-- **Дендрарх** — древовидная иерархия Образов (от примитивов до сложных абстракций) для эффективного распознавания и детекции новизны.
-- **Новизна × Значимость** — запускает **Ориентант** и канал приоритетного внимания (**Атен**).
-- **Иерархия рефлексов** — Генорефлексы (врождённые) → Клонрефлексы → Оптрефлексы → Норефлексы (выученные автоматизмы).
-- **Циклы осознания (Итероны)** — управляются **Диспетчероном**, используют глобальную информированность (**Инфокартину/Инфоконtext**), инфофункции и Историческую память.
-- **Гештальты (Доминанты)** — постоянные структуры памяти нерешённых значимых проблем — двигатель креативности и озарений.
-- **Бессознательное** — фоновые циклы осознания, обеспечивающие интуицию.
+- **Значимость** (−10 … +10) — универсальная количественная шкала оценки любого образа, действия или состояния с позиции самой системы.
+- **Дендрарх** — древовидная иерархия Образов для эффективного распознавания и детекции новизны.
+- **Ориентант и Атен** — канал приоритетного внимания, запускаемый Новизной × Значимостью.
+- **Иерархия рефлексов**: Генорефлексы → Клонрефлексы → Оптрефлексы → Норефлексы (автоматизмы).
+- **Осознание (Итероны)** — управляется Диспетчероном с использованием глобальной информированности (Инфокартина / Инфоконtext).
+- **Гештальты (Доминанты)** — структуры памяти нерешённых значимых проблем — двигатель креативности и озарений.
 
-Жизнь определяется операционально как функционирование Гомеостата/Эгостата. Архитектура позволяет создавать **сильный ИИ** и искусственные живые системы без эмуляции нейронов — даже на скромном оборудовании.
+**Сознание** рассматривается как высокоуровневый адаптивный механизм поиска альтернатив привычным реакциям в условиях новизны, а не как метафизическая сущность.
 
-Ключевой инструмент верификации — открытый прототип **Beast** (и упрощённая модель **Insect**), реализующий всю эволюционную иерархию.
+Жизнь операционально определяется как функционирование Гомеостата / Эгостата.
+
+## Структура репозитория
+
+- **`/Beast`** — материалы по прототипу Beast (работающая модель адаптивной системы)
+- **`/glossary`** — терминология и определения системы МВАП
+- `LICENSE`
+- `README.md`
+- `egostat_book.docx` и `egostat_book_eng.docx`
 
 ## Основные ресурсы
-- **Главный хаб теории**: [https://p-mvap.ru/](https://p-mvap.ru/)
-- **Книга «Схемотехника системы индивидуальной адаптивности»**: материалы на [fornit.ru](https://fornit.ru/)
-- **Монография-основание**: [fornit.ru/68715](https://fornit.ru/68715)
-- **Проект Beast**: [fornit.ru/beast](https://fornit.ru/beast)
-- **Модель гомеостата насекомого**: [fornit.ru/insect_e](https://fornit.ru/insect_e)
-- **Лаборатория**: [fornit.ru/67990](https://fornit.ru/67990)
 
-Концепция разрабатывается **Лабораторией схемотехники адаптивных систем** (Laboratory of Adaptive Systems Circuitry) — [fornit.ru/67990](https://fornit.ru/67990).
+- **Лаборатория схемотехники адаптивных систем** — [fornit.ru/67990](https://fornit.ru/67990)
+- **Главный портал теории** — [p-mvap.ru](https://p-mvap.ru/)
+- **Монография-основание** — [fornit.ru/68715](https://fornit.ru/68715)
+- **Проект Beast** — [fornit.ru/beast](https://fornit.ru/beast)
+- **Модель гомеостата насекомого** — [fornit.ru/insect_e](https://fornit.ru/insect_e)
+
+## Как начать
+
+1. Начните с **Глоссария** (очень рекомендуется — он формирует весь понятийный аппарат)
+2. Прочитайте книгу «Схемотехника системы индивидуальной адаптивности»
+3. Изучите прототип Beast и дополнительные материалы на fornit.ru
+
+Теория разрабатывается **Лабораторией схемотехники адаптивных систем** [](https://fornit.ru/67990).
+
+---
+
+**Лицензия**: MIT License (см. [LICENSE](LICENSE))
